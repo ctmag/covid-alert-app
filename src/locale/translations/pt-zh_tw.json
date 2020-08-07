@@ -1,17 +1,17 @@
 {
   "Home": {
     "NoExposureDetected": {
-      "AllSetTitle": "You’re all set",
+      "AllSetTitle": "準備好了",
       "RegionCovered": {
-        "Title": "No exposure detected",
-        "Body": "You have not been near anyone who reported a COVID-19 diagnosis through this app.",
+        "Title": "無發現確診個案",
+        "Body": "透過本應用程式，您未有與COVID-19確診患者接觸",
         "GuidanceUrl": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-how-to-isolate-at-home.html",
-        "AllSetBody": "Your phone is now running Bluetooth to collect codes from nearby phones."
+        "AllSetBody": "您手機的藍牙現正在收集鄰近手機的代碼"
       },
       "NoRegion": {
-        "Title": "No exposure detected",
-        "Body": "You have not been near anyone who reported a COVID-19 diagnosis through this app.\n\nHowever, in some provinces and territories, people cannot yet report COVID-19 diagnoses through this app.",
-        "AllSetBody": "We’ll let you know as soon as people outside Ontario can report a diagnosis through COVID Alert.\n\nIt’s still helpful to keep COVID Alert on.\n\nThat way, when people are able to report a diagnosis, you’ll find out if you were near them."
+        "Title": "無發現確診個案",
+        "Body": "透過本應用程式，您未有與COVID-19確診患者接觸。\n\n然而，某些省份或地區暫時未能使用本程式上報COVID-19確診個案。",
+        "AllSetBody": "安省以外地區可以使用COVID Alert上報確診個案後，我們會盡快通知您。\n\nIt’s still helpful to keep COVID Alert on.\n\nThat way, when people are able to report a diagnosis, you’ll find out if you were near them."
       },
       "RegionNotCovered": {
         "Title": "No reporting yet in your area",
@@ -37,7 +37,7 @@
         "HowToIsolateCTA": "How to self-isolate"
       }
     },
-    "ChooseRegionCTA": "Choose province or territory",
+    "ChooseRegionCTA": "請選擇省份或地區",
     "How": "Diagnosed with COVID-19?",
     "CTA": "What to do next",
     "HowUrl": "https://www.canada.ca/",
@@ -325,112 +325,112 @@
     "DailyUploadNotificationBody": "Help slow the spread of COVID-19 and upload your new random codes."
   },
   "Partners": {
-    "Label": "Developed in partnership with"
+    "Label": "與以下公司合作開發Developed in partnership with"
   },
   "BottomSheet": {
-    "Collapse": "Close",
-    "OnStatus": "COVID Alert is on, Tap for more information",
-    "OffStatus": "COVID Alert is off, Tap for more information"
+    "Collapse": "關閉",
+    "OnStatus": "已開啟COVID Alert，點按更多資訊",
+    "OffStatus": "已關閉COVID Alert，點按更多資訊"
   },
   "RegionLanding": {
-    "Title": "Choose your province or territory",
+    "Title": "請選擇您的省份或地區",
     "Body1": "Provincial and territorial governments are working to support COVID Alert across Canada.",
-    "Body2": "In some places, people cannot yet report a COVID-19 diagnosis through this app.",
-    "RegionSelectBtn": "Choose province or territory"
+    "Body2": "某些省份或地區暫時未能使用本程式上報COVID-19確診個案。",
+    "RegionSelectBtn": "請選擇省份或地區"
   },
   "RegionPicker": {
-    "Title": "Where do you live? (optional)",
-    "SettingsTitle": "Province or territory",
-    "Close": "Close",
-    "Body": "Choose your region to check if you can report a diagnosis through this app.\n\nYour region will never be shared with anyone.",
-    "Skip": "Skip",
-    "GetStarted": "Get started",
-    "Optional": "* Optional",
-    "AB": "Alberta",
-    "BC": "British Columbia",
-    "MB": "Manitoba",
-    "NB": "New Brunswick",
-    "NL": "Newfoundland and Labrador",
-    "NT": "Northwest Territories",
-    "NS": "Nova Scotia",
-    "NU": "Nunavut",
-    "ON": "Ontario",
-    "PE": "Prince Edward Island",
-    "QC": "Quebec",
-    "SK": "Saskatchewan",
-    "YT": "Yukon",
-    "None": "Prefer not to say"
+    "Title": "您的所在地? (非必須)",
+    "SettingsTitle": "省份或地區",
+    "Close": "關閉",
+    "Body": "請選擇您的地區，查看您是否可以通過此應用程式上報確診個案。\n\n您的地區資料將不會向任何人披露。",
+    "Skip": "跳過",
+    "GetStarted": "開始",
+    "Optional": "* 非必須",
+    "AB": "艾伯塔省",
+    "BC": "卑詩省",
+    "MB": "曼尼托巴省",
+    "NB": "新布藍茲維省",
+    "NL": "紐芬蘭與拉布拉多省",
+    "NT": "西北地區",
+    "NS": "新斯科舍省",
+    "NU": "努納武特地區",
+    "ON": "安大略省",
+    "PE": "愛德華王子島省",
+    "QC": "魁北克省",
+    "SK": "薩斯喀徹溫省",
+    "YT": "育空地區",
+    "None": "不透露"
   },
   "RegionalGuidance": {
     "CA": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://ca.thrive.health/covid19/en"
     },
     "AB": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://myhealth.alberta.ca/Journey/COVID-19/Pages/PubAsympIsolate.aspx"
     },
     "BC": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://bc.thrive.health/covid19/en"
     },
     "MB": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://sharedhealthmb.ca/covid19/screening-tool/"
     },
     "NB": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://www2.gnb.ca/content/gnb/en/departments/ocmoh/cdc/content/respiratory_diseases/coronavirus/coronavirusexposure.html#/app/symptom-checker/guides/399/what-to-do"
     },
     "NL": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://nl.thrive.health/covid19/en"
     },
     "NT": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://www.gov.nt.ca/covid-19/en/services/nwt-online-covid-19-self-assessment-tool"
     },
     "NS": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://novascotia.ca/coronavirus/when-to-seek-help/#if-exposed"
     },
     "NU": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://nu.thrive.health/covid19/en"
     },
     "ON": {
-      "CTA": "Find out what to do next",
+      "CTA": "是否有需要做檢測",
       "URL": "https://ontario.ca/covidalert-exposed"
     },
     "PE": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-self-isolation"
     },
     "QC": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/instructions-for-people-who-have-been-in-contact-with-a-confirmed-case-of-covid-19/"
     },
     "SK": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/covid-19-self-assessment"
     },
     "YT": {
-      "CTA": "Find out if you need to be tested",
+      "CTA": "是否有需要做檢測",
       "URL": "https://service.yukon.ca/en/covid-19-self-assessment/"
     }
   },
   "HowToIsolate": {
-    "Title": "How to self-isolate",
-    "Intro": "Try your best to:",
-    "Body1": "Stay home unless it’s to get medical care.",
-    "Body2": "Avoid public transportation like buses or taxis.",
-    "Body3": "Ask for help to get groceries and supplies dropped off at your door.",
-    "Body4": "Stay in a separate room and use a separate bathroom from others in your home, if possible.",
-    "Body5": "Wear a mask safely any time you cannot take the above actions."
+    "Title": "如何自我隔籬",
+    "Intro": "儘量去做:",
+    "Body1": "除接受醫療服務外，儘量留在住所內。",
+    "Body2": "避免乘搭公共交通工具，例如巴士或的士。",
+    "Body3": "請求別人幫忙把食品雜貨等放在大門外。",
+    "Body4": "留在個別房間，如住所環境允許，亦應與家人分開使用不同的洗手間。",
+    "Body5": "如未能採取上述措施，請時刻戴上口罩。"
   },
   "A11yList": {
-    "Start": "List start",
-    "End": "List end",
-    "Bullet": "Bullet"
+    "Start": "表格始List start",
+    "End": "表格末List end",
+    "Bullet": "點列Bullet"
   }
 }
