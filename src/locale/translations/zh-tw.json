@@ -3,36 +3,36 @@
     "NoExposureDetected": {
       "AllSetTitle": "準備好了",
       "RegionCovered": {
-        "Title": "無發現確診個案",
-        "Body": "透過本應用程式，您未曾與新冠肺炎確診患者接觸",
+        "Title": "無發現感染風險",
+        "Body": "透過本應用程式，您未曾與新冠肺炎確診患者接觸。",
         "GuidanceUrl": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-how-to-isolate-at-home.html",
-        "AllSetBody": "您手機的藍牙現正在收集鄰近手機的代碼"
+        "AllSetBody": "您手機的藍牙現正在收集鄰近手機的代碼。"
       },
       "NoRegion": {
-        "Title": "無發現確診個案",
+        "Title": "無發現感染風險",
         "Body": "透過本應用程式，您未曾與新冠肺炎確診患者接觸。\n\n然而，某些省份或地區尚未能使用本程式上報新冠肺炎確診個案。",
         "AllSetBody": "安省以外地區可以使用COVID Alert上報確診個案後，我們會盡快通知您。\n\n繼續開啟COVID Alert是仍然大有幫助。\n\n當其他地區可以上報確診個案時，您便能知道附近是否曾出現新冠肺炎確診個案。"
       },
       "RegionNotCovered": {
-        "Title": "您的地區尚未能報告",
+        "Title": "您所在的地區尚未能報告",
         "Body": "您的省份或地區尚未能使用本程式上報新冠肺炎確診個案。\n\n繼續開啟COVID Alert是仍然大有幫助。\n\n當您的地區可以上報確診個案時，您便能收到自己曾否與患者接觸的通知。",
         "GuidanceUrl": "https://www.canada.ca/en/public-health/services/publications/diseases-conditions/covid-19-how-to-isolate-at-home.html",
-        "AllSetBody": "您的地區可以使用COVID Alert上報確診個案後，我們會盡快通知您。\n\n繼續開啟COVID Alert是仍然大有幫助。\n\n當您的地區可以上報確診個案時，您便能知道附近是否曾出現新冠肺炎確診個案。"
+        "AllSetBody": "您所在的地區可以使用COVID Alert上報確診個案後，我們會盡快通知您。\n\n繼續開啟COVID Alert是仍然大有幫助。\n\n當您的地區可以上報確診個案時，您便能知道附近是否曾出現新冠肺炎確診個案。"
       }
     },
     "ExposureDetected": {
       "CA": {
         "Title": "過去十四天內您曾接觸確診者",
         "Title2": "現在應該怎樣做？",
-        "Body1": "透過本應用程式，您附近曾出現新冠肺炎確診患者。您與患者曾有十五分鐘或以上的接觸。",
+        "Body1": "透過本應用程式，您曾與新冠肺炎確診患者接觸。您與患者曾有十五分鐘或以上的接觸。",
         "Body2": "您有受感染的風險。請細心留意身體狀況。",
-        "Body3": "您亦可選擇自行居家檢疫十四天",
+        "Body3": "您亦可選擇自行居家檢疫十四天。",
         "HowToIsolateCTA": "如何居家隔籬"
       },
       "ON": {
         "Title": "過去十四天內您曾接觸確診者",
         "Title2": "現在應該怎樣做？",
-        "Body1": "透過本應用程式，您附近曾出現新冠肺炎確診患者。您與患者曾有十五分鐘或以上的接觸。",
+        "Body1": "透過本應用程式，您曾與新冠肺炎確診患者接觸。您與患者曾有十五分鐘或以上的接觸。",
         "Body2": "您有受感染的風險。",
         "HowToIsolateCTA": "如何居家隔籬"
       }
@@ -44,8 +44,8 @@
     "DiagnosedView": {
       "Title": "感謝您協助對抗新冠肺炎",
       "Body1": {
-        "One": "明天，您將會最後一次收到權限請求通知去上載您手機新發出的隨機代碼。",
-        "Other": "未來數天，您將會每天收到權限請求通知去上載您手機新發出的隨機代碼。"
+        "One": "明天，您將會最後一次收到權限請求通知以便上載您手機新發出的隨機代碼。",
+        "Other": "未來數天，您將會每天收到權限請求通知以便上載您手機新發出的隨機代碼。"
       },
       "Body2": "您可以選擇不同意，即使您之前已曾經同意。",
       "Body3": "若您對自己的病徵感到憂慮，請儘早求診。照顧好自己與家人。",
@@ -57,7 +57,7 @@
     "SymptomTrackerUrl": "https://ca.thrive.health/covid19app/action/88a5e9a7-db9e-487b-bc87-ce35035f8e5c?from=/home&navigateTo=/tracker/complete",
     "DiagnosedShareView": {
       "Title": "上載隨機代碼",
-      "Body1": "感謝您協助減慢疫情擴散!",
+      "Body1": "感謝您協助遏制疫情擴散!",
       "Body2": "溫馨提示: ",
       "Body3": "為保障他人安全，您需要每天上載手機的隨機代碼，特別是如果您必須離家外出。",
       "ButtonCTA": "上載隨機代碼"
@@ -71,7 +71,7 @@
       "CTA": "開啟COVID Alert",
       "AndroidTitle2": "不確定是否開啟位置設定?",
       "AndroidBody1": "為了COVID Alert能正常運作，您需要開啟手機的位置設定。Android的應用程式均需要手機的位置設定為開啟，方能使用藍牙搜尋功能。",
-      "AndroidBody2a": "儘管如此，COVID Alert應用程式 ",
+      "AndroidBody2a": "儘管如此，COVID Alert ",
       "AndroidBody2b": "亦不能夠取得您的位置資料。",
       "AndroidBody2c": "您可以查看手機的權限設定。本程式並沒有位置設定的權限。"
     },
@@ -86,65 +86,65 @@
       "CTA": "尋求幫助"
     },
     "NoConnectivity": "COVID Alert已離線",
-    "NoConnectivityDetailed": "您的手機需要連接互聯網，COVID Alert方能查看附近有否確診個案。",
+    "NoConnectivityDetailed": "您的手機需連接到互聯網，COVID Alert方能查看附近有否確診個案。",
     "AppName": "COVID Alert",
     "ExternalLinkHint": "開啟新視窗",
     "LastCheckedMinutes": {
-      "One": "Last checked {number} minute ago",
-      "Other": "Last checked {number} minutes ago"
+      "One": "最近查看記錄 {number} 分鐘前",
+      "Other": "最近查看記錄 {number} 分鐘前"
     },
     "LastCheckedHours": {
-      "One": "Last checked {number} hour ago",
-      "Other": "Last checked {number} hours ago"
+      "One": "最近查看記錄 {number} 小時前",
+      "Other": "最近查看記錄 {number} 小時前"
     },
     "LastCheckedDays": {
-      "One": "Last checked {number} day ago",
-      "Other": "Last checked {number} days ago"
+      "One": "最近查看記錄 {number} 天前",
+      "Other": "最近查看記錄 {number} 天前"
     }
   },
   "OverlayClosed": {
-    "SystemStatus": "COVID Alert is ",
-    "SystemStatusOn": "active",
-    "SystemStatusOff": "off",
-    "NotificationStatus": "Notifications are ",
-    "NotificationStatusOff": "off",
-    "TapPrompt": "Tap for menu"
+    "SystemStatus": "COVID Alert ",
+    "SystemStatusOn": "已開啟",
+    "SystemStatusOff": "已關閉",
+    "NotificationStatus": "顯示通知 ",
+    "NotificationStatusOff": "已關閉",
+    "TapPrompt": "點按功能表"
   },
   "OverlayOpen": {
-    "BluetoothCardBody": "You need to turn on Bluetooth in your phone’s settings so COVID Alert can work.",
-    "BluetoothCardAction": "Turn on Bluetooth",
-    "EnterCodeCardTitle": "Diagnosed with COVID-19?",
-    "EnterCodeCardBody": "You need a one-time key to let people know they’ve been exposed.",
-    "EnterCodeCardAction": "Enter your one-time key",
-    "EnterCodeCardTitleDiagnosed": "You’re helping stop COVID-19",
-    "EnterCodeCardBodyDiagnosed": "Thank you for doing your part to slow the spread. ",
+    "BluetoothCardBody": "為了COVID Alert能正常運作，您需要開啟手機的藍牙設定。",
+    "BluetoothCardAction": "開啟藍牙",
+    "EnterCodeCardTitle": "已確診新冠肺炎?",
+    "EnterCodeCardBody": "您需要取得一次性密碼以便通知他人有被傳染的風險。",
+    "EnterCodeCardAction": "輸入您的一次性密碼",
+    "EnterCodeCardTitleDiagnosed": "您正在協助對抗新冠肺炎",
+    "EnterCodeCardBodyDiagnosed": "感謝您對遏制疫情擴散的貢獻。",
     "EnterCodeCardDiagnosedCountdown": {
-      "One": "{number} day left!",
-      "Other": "{number} days left!"
+      "One": "還剩 {number} 天!",
+      "Other": "還剩 {number} 天!"
     },
-    "NotificationCardStatus": "Notifications are off",
-    "NotificationCardStatusOff": "OFF",
-    "NotificationCardBody": "You will not receive notifications if you’ve been near anyone who has reported a COVID-19 diagnosis. Finding out potential exposures right away is essential to slowing the spread of COVID-19.",
-    "NotificationCardAction": "Turn on notifications",
-    "ExposureNotificationCardStatus": "Exposure notifications are ",
-    "ExposureNotificationCardBody": "COVID Alert cannot notify you as soon as it learns of a possible exposure. Finding out right away is essential to slowing the spread of COVID-19.",
-    "ExposureNotificationCardAction": "Turn on exposure notifications",
-    "NoConnectivityCardAction": "COVID Alert is offline",
-    "NoConnectivityCardBody": "Connect to the Internet to notify people or check for exposures."
+    "NotificationCardStatus": "顯示通知已關閉",
+    "NotificationCardStatusOff": "關閉",
+    "NotificationCardBody": "假若您附近曾出現新冠肺炎確診個案，您將不會收到任何通知。及早發現感染風險對遏制新冠病毒擴散至為重要。",
+    "NotificationCardAction": "開啟顯示通知",
+    "ExposureNotificationCardStatus": "感染風險通知Exposure notifications are ",
+    "ExposureNotificationCardBody": "一旦發現感染風險，COVID Alert未能即時通知您。及早發現感染風險對遏制新冠病毒擴散至為重要。",
+    "ExposureNotificationCardAction": "開啟感染風險通知",
+    "NoConnectivityCardAction": "COVID Alert已離線",
+    "NoConnectivityCardBody": "請連接到互聯網以便通知他人或查看感染風險。"
   },
   "Info": {
-    "CheckSymptoms": "Check symptoms",
+    "CheckSymptoms": "檢查症狀",
     "SymptomsUrl": "https://ca.thrive.health/covid19/en",
-    "TellAFriend": "Share app",
-    "LearnMore": "How it works",
-    "Help": "Help",
+    "TellAFriend": "分享應用程式",
+    "LearnMore": "如何運作",
+    "Help": "幫助",
     "HelpUrl": "https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert/help.html",
-    "GetCode": "Get a one-time key",
-    "ChangeLanguage": "Change language",
-    "ChangeRegion": "Change province or territory",
-    "Privacy": "How it protects your privacy",
-    "SettingsTitle": "Settings",
-    "InformationTitle": "About COVID Alert"
+    "GetCode": "領取一次性密碼",
+    "ChangeLanguage": "更改語言",
+    "ChangeRegion": "更改省份或地區",
+    "Privacy": "如何保障個人資料私隱How it protects your privacy",
+    "SettingsTitle": "設定",
+    "InformationTitle": "關於COVID Alert"
   },
   "Landing": {
     "En": "English",
@@ -240,7 +240,7 @@
       "ImageAltText": "A hand-drawn illustration of a mobile phone displaying a dialogue box with a red X and a green check mark on the screen.",
       "Body1": "**Allow the app** to start logging random codes or “random IDs” when you’re near other phones. The app will access the date, duration and signal strength related to the random codes, but they never leave your phone.",
       "Body2": "You’ll also need to **let the app send you notifications**.",
-      "PrivacyButtonCTA": "Learn more about privacy"
+      "PrivacyButtonCTA": "瞭解私隱政策"
     }
   },
   "Privacy": {
@@ -249,23 +249,23 @@
   },
   "ThankYou": {
     "Title": "感謝您的協力",
-    "Body": "Exposure notifications are on. You will receive a message if COVID Alert detects that you’ve been near someone who has reported a COVID-19 diagnosis.",
-    "Dismiss": "Dismiss"
+    "Body": "已開啟顯示通知。如本應用程式確認您附近曾出現新冠肺炎確診個案，您將會收到通知。",
+    "Dismiss": "關閉"
   },
   "DataUpload": {
-    "Cancel": "Cancel",
-    "InfoSmall": "Your random codes will not be uploaded unless you give permission in the next step.",
-    "ShareToast": "Random codes uploaded successfully",
+    "Cancel": "取消",
+    "InfoSmall": "除非您在下一步提供權限，否則您的隨機代碼不會被上載。",
+    "ShareToast": "成功上載隨機代碼",
     "Step1": {
-      "Title": "通知他人可能已被傳染",
+      "Title": "通知他人有被傳染的風險",
       "Body1a": "第一步. ",
       "Body1b": "請輸入您確診時領取的一次性密碼。",
       "Body2a": "第二步. ",
-      "Body2b": "Agree that COVID Alert can let people know they were exposed.",
+      "Body2b": "同意COVID Alert可通知他人有被傳染的風險。",
       "Body3a": "第三步. ",
-      "Body3b": "Allow your phone to share your random codes.",
-      "Body4a": "Nobody will get any information about you ",
-      "Body4b": "or the time you were near them.",
+      "Body3b": "提供手機權限以分享您的隨機代碼。",
+      "Body4a": "沒有人能夠取得您的資料",
+      "Body4b": "，就算你在他們附近。",
       "CTA": "下一步",
       "NoCode": "需要一次性密碼?"
     },
@@ -281,9 +281,9 @@
     "ConsentView": {
       "Title": "您現在可以上載隨機代碼",
       "Body1": "您的手機將要求您提供權限以便上載過去十四日的隨機代碼",
-      "Body2a": "Nobody will get any information about you ",
-      "Body2b": "or the time you were near them.",
-      "Body3": "同意便能減慢新冠病毒擴散",
+      "Body2a": "沒有人能夠取得您的資料",
+      "Body2b": "，就算你在他們附近。",
+      "Body3": "同意便能協助紓緩新冠病毒擴散",
       "Action": "同意",
       "ErrorTitle": "未能上載隨機代碼",
       "ErrorBody": "您未曾提供權限",
@@ -309,7 +309,7 @@
       },
       "RegionNotCovered": {
         "Title": "您所在的地區尚未能報告",
-        "Body": "您所在的地區尚未能領取一次性密碼。\n\n您尚未能通知他人可能已被傳染。但您可以自行居家檢疫十四天，並且:",
+        "Body": "您所在的地區尚未能領取一次性密碼。\n\n您尚未能通知他人有被傳染的風險。但您可以自行居家檢疫十四天，並且:",
         "Body2": "保障社區安全。",
         "Body3": "保護同住的家人及寵物。",
         "Body4": "照顧好自己。"
@@ -318,11 +318,11 @@
   },
   "Notification": {
     "ExposedMessageTitle": "您曾接觸確診者",
-    "ExposedMessageBody": "通過本應用程式，您曾與新冠肺炎確診患者有緊密接觸。了解更多下一步資訊。",
+    "ExposedMessageBody": "通過本應用程式，您曾與新冠肺炎確診患者有緊密接觸。瞭解更多下一步資訊。",
     "OffMessageTitle": "已關閉COVID Alert",
     "OffMessageBody": "開啟COVID Alert，以便收取附近有否新冠肺炎確診個案的信息。",
     "DailyUploadNotificationTitle": "上載新隨機代碼",
-    "DailyUploadNotificationBody": "減慢疫情擴散，上載新隨機代碼。"
+    "DailyUploadNotificationBody": "紓緩疫情擴散，上載新隨機代碼。"
   },
   "Partners": {
     "Label": "與以下公司共同開發"
