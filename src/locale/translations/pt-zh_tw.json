@@ -69,26 +69,26 @@
       "Title": "已關閉COVID Alert",
       "Body1": "COVID Alert尚未開啟。應用程式需要您提供權限。",
       "CTA": "開啟COVID Alert",
-      "AndroidTitle2": "不確定是否分享位置資訊Not sure about turning on Location?",
-      "AndroidBody1": "You need to have Location turned on for COVID Alert to work. To use Bluetooth scanning, Android phones need Location setting on for all apps.",
-      "AndroidBody2a": "Despite that, COVID Alert has ",
-      "AndroidBody2b": "no way of knowing where you are. ",
-      "AndroidBody2c": "You can check the app’s permissions in your phone’s settings. You’ll see it does not have permission for location services."
+      "AndroidTitle2": "不確定是否開啟位置設定?",
+      "AndroidBody1": "為了COVID Alert能正常運作，您需要開啟手機的位置設定。Android的應用程式均需要手機的位置設定為開啟，方能使用藍牙搜尋功能。",
+      "AndroidBody2a": "儘管如此，COVID Alert應用程式 ",
+      "AndroidBody2b": "亦不能夠取得您的位置資料。",
+      "AndroidBody2c": "您可以查看手機的權限設定。本程式並沒有位置設定的權限。"
     },
     "FrameworkUnavailable": {
-      "Title": "Something went wrong",
-      "Body": "COVID Alert is not supported by your phone’s operating system.\n\nMake sure your operating system is up to date.\n\nIf you have an Android phone, try updating your Google Play Services.",
-      "CTA": "取得幫助Get Help"
+      "Title": "發生錯誤",
+      "Body": "您手機的作業系統未能支援COVID Alert。\n\n請確認作業系統是否更新到最新版本。\n\n若使用Android手機，可嘗試利用Google Play服務更新。",
+      "CTA": "尋求幫助"
     },
     "UnknownProblem": {
-      "Title": "Something went wrong",
-      "Body": "It looks like your phone cannot support COVID Alert.",
-      "CTA": "Get Help"
+      "Title": "發生錯誤",
+      "Body": "您手機的作業系統未能支援COVID Alert。",
+      "CTA": "尋求幫助"
     },
-    "NoConnectivity": "COVID Alert is offline",
-    "NoConnectivityDetailed": "COVID Alert only checks for exposure if your phone is connected to the Internet.",
+    "NoConnectivity": "COVID Alert已離線",
+    "NoConnectivityDetailed": "您的手機需要連接互聯網，COVID Alert方能查看附近有否確診個案。",
     "AppName": "COVID Alert",
-    "ExternalLinkHint": "Opens in a new window",
+    "ExternalLinkHint": "開啟新視窗",
     "LastCheckedMinutes": {
       "One": "Last checked {number} minute ago",
       "Other": "Last checked {number} minutes ago"
